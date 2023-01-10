@@ -95,5 +95,5 @@ async def main():
     # Close the HTTP session
     await api.close_session()
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# if __name__ == "__main__":
+#     asyncio.run(main())
